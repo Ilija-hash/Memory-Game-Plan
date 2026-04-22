@@ -13,3 +13,4 @@
 - Glavna stranica
 - Statistika
 - Istorija
+- Profil
